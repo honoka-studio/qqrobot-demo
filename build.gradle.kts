@@ -11,7 +11,7 @@ plugins {
     alias(libs.plugins.kotlin.jpa)
 }
 
-group = "de.honoka.qqrobot"
+group = "de.honoka.demo.qqrobot"
 version = libs.versions.root.get()
 
 java {
